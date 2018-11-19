@@ -3,7 +3,7 @@
 ## What is
 ### recv.py
 HTTPサーバのログをrsyslog経由で受信し，データベースに保存します。  
-<img src ="https://github.com/neru-very/syslog_receiver/blob/test/img/recv.png" width="400" height="260">
+<img src ="https://github.com/neru-very/log_analyzer/blob/master/img/recv.png" width="400" height="260">
 
 ### analyzer.py
 analyzer.pyはHTTPサーバのaccessログを読み込み，解析します。
